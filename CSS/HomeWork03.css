@@ -1,0 +1,60 @@
+div{
+    width: 600px;
+    background: linear-gradient(#ECECEC,#FFFFED);
+}
+
+#t1:nth-of-type(2){
+    line-height: 30px;
+    color: #5C9815;
+}
+
+#t2:nth-of-type(3){
+    line-height: 30px;
+    color: #F26522;
+}
+
+#t1 span:nth-of-type(1){
+    color: #ffffff;
+    background-color: rgb(0,89,82);
+}
+#t1 span:nth-of-type(2){
+    color: #ffffff;
+    background-color: rgb(0,114,54);
+}
+#t1 span:nth-of-type(3){
+    color: #ffffff;
+    background-color: rgb(0,139,191);
+}
+#t1 span:nth-of-type(4){
+    color: #ffffff;
+    background-color: rgb(0,102,179);
+}
+#t1 span:nth-of-type(5){
+    color: #ffffff;
+    background-color: rgb(0,37,97);
+}
+
+#t2 span:nth-of-type(1){
+    color: #ffffff;
+    background-color: rgb(243,111,33);
+}
+#t2 span:nth-of-type(2){
+    color: #ffffff;
+    background-color: rgb(187,19,26);
+}
+#t2 span:nth-of-type(3){
+    color: #ffffff;
+    background-color: rgb(215,55,101);
+}
+#t2 span:nth-of-type(4){
+    color: #ffffff;
+    background-color: rgb(167,5,50);
+}
+#t2 span:nth-of-type(5){
+    color: #ffffff;
+    background-color: rgb(85,49,113);
+}
+#t2 span:nth-of-type(6){
+    color: #ffffff;
+    background-color: rgb(79,18,104);
+}

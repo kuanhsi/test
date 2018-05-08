@@ -1,0 +1,47 @@
+h1{
+    font: normal 800 22px "ËÎÌו";
+    color: #333;
+    text-shadow:rgba(0,0,0,0.5)2px 2px 2px ;
+    text-align: center;;
+}
+
+h2{
+    font-size: 18px;
+    line-height: 30px;
+    color: #999;
+    text-align: center;
+}
+
+p:nth-of-type(1){
+    font-size: 12px;
+    line-height: 30px;
+    text-align: center;
+}
+
+p span{
+    color: red;
+}
+
+p{
+    color: #333;
+    font: normal  14px "ËÎÌו";
+    line-height: 1.8;
+    text-indent: 2em;
+}
+
+p:nth-of-type(2){
+     font-style: oblique;
+}
+p:nth-of-type(3){
+    font-style: oblique;
+}
+p:nth-of-type(4){
+    font-style: oblique;
+}
+p:nth-of-type(5){
+    font-style: oblique;
+}
+p:nth-of-type(6){
+    font-weight: 800;
+}
+

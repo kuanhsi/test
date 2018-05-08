@@ -1,0 +1,95 @@
+#nav{
+    width: 250px;
+    background:linear-gradient(#F9FBCB,#F8F8F3);
+}
+
+.title{
+    font-size: 16px;
+    color: #ffffff;
+    text-indent: 1em;
+    line-height: 30px;
+    background-color: #518700;
+
+}
+
+ul{
+    text-indent: 2em;
+    list-style-type: none;
+    font-size: 12px;
+    line-height: 28px;
+    color: #1A66B3;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.title{
+    background-image: url("../image/bang.gif");
+    background-repeat: no-repeat;
+    background-position: 100px ;
+    background-size: 30px 30px;
+}
+li:nth-of-type(1){
+    background-image: url("../image/book_no01.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 20px 20px;
+}
+li:nth-of-type(2){
+    background-image: url("../image/book_no02.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 20px 20px;
+}
+li:nth-of-type(3){
+    background-image: url("../image/book_no03.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 20px 20px;
+}
+li:nth-of-type(4){
+    background-image: url("../image/book_no04.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 13px 13px;
+}
+li:nth-of-type(5){
+    background-image: url("../image/book_no05.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 13px 13px;
+}
+li:nth-of-type(6){
+    background-image: url("../image/book_no06.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 13px 13px;
+}
+li:nth-of-type(7){
+    background-image: url("../image/book_no07.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 13px 13px;
+}
+li:nth-of-type(8){
+    background-image: url("../image/book_no08.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 13px 13px;
+}
+li:nth-of-type(9){
+    background-image: url("../image/book_no09.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 13px 13px;
+}
+li:nth-of-type(10){
+    background-image: url("../image/book_no10.gif");
+    background-repeat: no-repeat;
+    background-position: 0px ;
+    background-size: 13px 13px;
+}

@@ -1,0 +1,13 @@
+h1{
+    font: 800 18px times,"¿¬Ìו";
+}
+
+body{
+    font: normal 12px Times, "Times New Roman" , "ËÎÌו";
+    line-height: 20px;
+}
+
+p .a, span{
+    color: red;
+    font-weight: 800;
+}

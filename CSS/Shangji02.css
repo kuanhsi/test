@@ -1,0 +1,19 @@
+body{
+    color: #9C2F06;
+}
+
+h2{
+    font-size: 18px;
+    line-height: 40px;
+    font-weight: 800;
+}
+
+p{
+    font-size: 12px;
+    line-height: 20px;
+}
+
+img{
+    vertical-align: middle;
+}
+

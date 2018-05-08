@@ -1,0 +1,47 @@
+h2{
+    width: 300px;
+    background: linear-gradient(#0467AC,#B6DBF5);
+    text-indent: 1em;
+}
+
+h2{
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 800;
+    line-height: 35px;
+}
+
+h3 a{
+    font-size: 14px;
+    font-weight: 800;
+    line-height: 30px;
+    color: #0565C6;
+    text-decoration: none;
+}
+h3 a:hover{
+    text-decoration: underline;
+}
+
+li a{
+    font-size: 12px;
+    line-height: 26px;
+    color: #666666;
+    text-decoration: none;
+}
+
+li a:hover{
+    color: #F60;
+    text-decoration: underline;
+}
+ul{
+    list-style-type: none;
+}
+h3{
+    background: linear-gradient(to bottom,#E4FEFA,#BDDFF7,#E4FEFA);
+    width: 250px;
+    text-indent: 3em;
+}
+
+div{
+    padding-left: 50px;
+}
